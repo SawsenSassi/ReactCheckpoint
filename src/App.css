@@ -1,4 +1,4 @@
-.App {
+main {
   text-align: center;
 }
 
@@ -23,11 +23,21 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
-
+h1{
+  color :#007bff;
+}
 .App-link {
   color: #61dafb;
 }
+#dropdown {
+  text-align: left;
+}
 
+footer{
+  margin: 100px 100px;
+  padding: 100px 100px;
+ text-align: center;
+}
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
